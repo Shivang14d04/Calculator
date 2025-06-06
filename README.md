@@ -17,8 +17,8 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 
 ## Demo
 
-You can view the live demo here:  
-[*(Add your GitHub Pages link or live URL if deployed)*](https://shivang14d04.github.io/Calculator/)
+  
+[You can view the live demo here](https://shivang14d04.github.io/Calculator/)
 
 ---
 
